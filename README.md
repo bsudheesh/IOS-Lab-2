@@ -1,6 +1,6 @@
 # Lab 2 : Tumblr Feed
 
-Time spent: 3 hours spent in total
+Time spent: 4 hours spent in total
 
 
 ## Video Walkthrough 
@@ -16,7 +16,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [2017] [Sumit Dhungel]
+    Copyright [2017] [Sudheesh Bhattarai]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
